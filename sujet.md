@@ -12,3 +12,4 @@
 
 ## Answers
 1- A significant software bug was recently discovered in Samsung's flagship Galaxy S24 series, which includes the Galaxy S24, S24 Plus, and S24 Ultra models. The bug primarily affected the Secure Folder feature, a critical security mechanism designed to protect sensitive files and apps on the device. The flaw allowed unauthorized access to this protected area, bypassing the necessary authentication (such as PIN, password, or biometric verification).
+sdfsadfasdf
